@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Add New Command</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container mt-4">
+        <h1>Add New Command</h1>
+        {% with messages = get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+                {% for category, message in messages %}
+                    <div class="alert alert-{% if category == 'error' %}danger{% else %}{{ category }}{% endif %}" role="alert">
+                        {{ message }}
+                    </div>
+                {% endfor %}
+            {% endif %}
+        {% endwith %}
+
+        <form method="POST" action="{{ url_for('add_command') }}">
+            <div class="mb-3">
+                <label for="new_command" class="form-label">Command</label>
+                <input type="text" class="form-control" id="new_command" name="new_command" value="{{ new_command|default('') }}" placeholder="!newcommand" required>
+            </div>
+            <div id="responses">
+                {% if responses %}
+                    {% for response in responses %}
+                        <div class="mb-3 response">
+                            <input type="text" class="form-control" name="response[]" value="{{ response }}">
+                            <button type="button" class="btn btn-secondary mt-2" onclick="this.parentElement.remove()">Remove</button>
+                        </div>
+                    {% endfor %}
+                {% else %}
+                    <div class="mb-3 response">
+                        <input type="text" class="form-control" name="response[]" placeholder="Response 1">
+                        <button type="button" class="btn btn-secondary mt-2" onclick="this.parentElement.remove()">Remove</button>
+                    </div>
+                {% endif %}
+            </div>
+            <button type="button" class="btn btn-secondary" onclick="addResponse()">Add Response</button>
+            <br><br>
+            <input type="submit" class="btn btn-primary" value="Add Command">
+            <a href="{{ url_for('show_commands') }}" class="btn btn-secondary">Back to Commands</a>
+        </form>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        function addResponse() {
+            const container = document.getElementById('responses');
+            const newInput = document.createElement('div');
+            newInput.className = 'mb-3 response';
+            newInput.innerHTML = '<input type="text" class="form-control" name="response[]" placeholder="Response"> <button type="button" class="btn btn-secondary mt-2" onclick="this.parentElement.remove()">Remove</button>';
+            container.appendChild(newInput);
+        }
+    </script>
+</body>
+</html>

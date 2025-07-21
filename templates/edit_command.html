@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Edit {{ command }}</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="{{ url_for('static', filename='js/sortable.min.js') }}"></script>
+    <style>
+        .response {
+            margin-bottom: 10px;
+            padding: 10px;
+            background: #f8f9fa;
+            border: 1px solid #dee2e6;
+            border-radius: 4px;
+            cursor: move;
+            display: flex;
+            align-items: center;
+        }
+        .response input.form-control {
+            flex-grow: 1;
+            margin-right: 10px;
+        }
+        #previewContent {
+            white-space: pre-wrap;
+            word-wrap: break-word; /* Ensure long words break to fit */
+            max-width: 100%; /* Respect modal width */
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-4">
+        <h1>Edit {{ command }}</h1>
+        {% with messages = get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+                {% for category, message in messages %}
+                    <div class="alert alert-{% if category == 'error' %}danger{% else %}{{ category }}{% endif %}" role="alert">
+                        {{ message }}
+                    </div>
+                {% endfor %}
+            {% endif %}
+        {% endwith %}
+
+        <form method="POST" action="{{ url_for('save_command', command=command) }}">
+            <div id="responses">
+                {% for response in responses %}
+                    <div class="mb-3 response p-2">
+                        <input type="text" class="form-control" name="response[]" value="{{ response['responseLine1'] }}">
+                        <button type="button" class="btn btn-secondary" onclick="this.parentElement.remove()">Remove</button>
+                    </div>
+                {% endfor %}
+            </div>
+            <button type="button" class="btn btn-secondary" onclick="addResponse()">Add Response</button>
+            <button type="button" class="btn btn-info" data-bs-toggle="modal" data-bs-target="#previewModal">Preview</button>
+            <br><br>
+            <input type="submit" class="btn btn-primary" value="Save Changes">
+            <a href="{{ url_for('show_commands') }}" class="btn btn-secondary">Back to Commands</a>
+        </form>
+
+        <div class="modal fade" id="previewModal" tabindex="-1" aria-labelledby="previewModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="previewModalLabel">Preview {{ command }}</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body" id="previewContent"></div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        function addResponse() {
+            const container = document.getElementById('responses');
+            const newInput = document.createElement('div');
+            newInput.className = 'mb-3 response p-2';
+            newInput.innerHTML = '<input type="text" class="form-control" name="response[]" placeholder="Response"><button type="button" class="btn btn-secondary" onclick="this.parentElement.remove()">Remove</button>';
+            container.appendChild(newInput);
+            updatePreview(); // Update preview when adding a response
+        }
+
+        function updatePreview() {
+            const responses = Array.from(document.querySelectorAll('input[name="response[]"]'))
+                .map(input => input.value.trim())
+                .filter(v => v); // Filter out empty responses
+            const previewText = responses.length > 0 ? responses.join('\n') : 'No responses yet.';
+            document.getElementById('previewContent').textContent = previewText;
+        }
+
+        document.addEventListener('DOMContentLoaded', function() {
+            const responses = document.getElementById('responses');
+            new Sortable(responses, {
+                animation: 150,
+                ghostClass: 'bg-secondary',
+                onSort: updatePreview // Update preview after sorting
+            });
+
+            // Add input listeners for real-time preview
+            document.querySelectorAll('input[name="response[]"]').forEach(input => {
+                input.addEventListener('input', updatePreview);
+            });
+            responses.addEventListener('DOMSubtreeModified', updatePreview);
+            updatePreview(); // Initial preview
+        });
+    </script>
+</body>
+</html>

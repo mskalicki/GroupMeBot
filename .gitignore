@@ -1,0 +1,7 @@
+config.json
+.venv/
+**/__pycache__/
+.repomixignore
+codebase.md
+repomix.config.json
+commands.json
