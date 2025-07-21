@@ -1,0 +1,9 @@
+{
+    "commands": [
+      {
+        "command": "!door",
+        "response": "2438"
+      }
+      
+    ]
+  }
