@@ -68,6 +68,12 @@ def process_message(message):
         str or None: Response message (possibly multi-line with newlines) if a command is found,
                      else None.
     """
+    
+    logger = logging.getLogger(__name__)
+    logger.info("process_message called")
+    
+    
+    
     if message.get("sender_type") == "bot":
         # Ignore bot messages to prevent loops
         return None
