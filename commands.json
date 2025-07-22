@@ -1,10 +1,8 @@
-[
-  {
-    "trigger": "!door",
-    "response": "2438"
-  },
-  {
-    "trigger": "!door ",
-    "response": "2438"
-  }
-]
+{
+  "!door": [
+    { "responseLine1": "2438" }
+  ],
+  "!ping": [
+    { "responseLine1": "pong" }
+  ]
+}
