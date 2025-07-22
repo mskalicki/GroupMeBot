@@ -78,8 +78,8 @@ def process_message(message):
         # Ignore bot messages to prevent loops
         return None
     
-    text = message.get("text") or ""
-    text = text.strip()
+    text = message.get("text", "").strip()
+    logger.info(f"Processing message: {text}")
     
     # Access COMMANDS with lock for thread safety
     with COMMANDS_LOCK:
