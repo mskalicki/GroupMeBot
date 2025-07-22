@@ -1,12 +1,10 @@
-{
-    "commands": [
-      {
-        "command": "!door",
-        "response": "2438"
-      },
-      {
-        "command": "!door ",
-        "response": "2438"
-      }
-    ]
+[
+  {
+    "trigger": "!door",
+    "response": "2438"
+  },
+  {
+    "trigger": "!door ",
+    "response": "2438"
   }
+]
