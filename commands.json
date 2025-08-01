@@ -73,6 +73,10 @@
 
   "!beer": "https://i.groupme.com/1024x1024.png.337e30d6311248eaba4b400360781c60",
 
+  "!mango": "https://i.groupme.com/220x220.gif.e44c44a73fa3453b8ee9d909caf3899f",
+
+  "!mustard": "https://i.groupme.com/1179x1188.jpeg.891c24a07c504548b44620d37390764c",
+
   "!help": [
     { "responseLine1": "!door" },
     { "responseLine2": "!actives" },
