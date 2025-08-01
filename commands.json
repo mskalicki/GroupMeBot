@@ -1,8 +1,86 @@
 {
-  "!door": [
-    { "responseLine1": "2438" }
+  "!door": "2438",
+  
+  "!actives": [
+    { "responseLine1": "Σ1060 - Aaron S." },
+    { "responseLine2": "Σ1062 - Jacob" },
+    { "responseLine3": "Σ1063 - Graham." },
+    { "responseLine4": "Σ1065 - Nate H." },
+    { "responseLine5": "Σ1066 - Aneetej" },
+    { "responseLine6": "Σ1067 - Matteo" },
+    { "responseLine7": "Σ1068 - Jay" },
+    { "responseLine8": "Σ1070 - Jack G." },
+    { "responseLine9": "Σ1071 - Emmett" },
+    { "responseLine10": "Σ1072 - Akshat" },
+    { "responseLine11": "Σ1076 - Zack Sh." },
+    { "responseLine12": "Σ1077 - Nate F." },
+    { "responseLine13": "Σ1078 - Josh" },
+    { "responseLine14": "Σ1079 - Aaron B." },
+    { "responseLine15": "Σ1081 - Grahm" },
+    { "responseLine16": "Σ1082 - Braeden" },
+    { "responseLine17": "Σ1083 - Jerm" },
+    { "responseLine18": "Σ1084 - Nolan" },
+    { "responseLine19": "Σ1085 - Thomas" },
+    { "responseLine20": "Σ1086 - Cooper" },
+    { "responseLine21": "Σ1087 - Varun" },
+    { "responseLine22": "Σ1088 - Adi" },
+    { "responseLine23": "Σ1089 - Krish" },
+    { "responseLine24": "Σ1090 - Mike S." },
+    { "responseLine25": "Σ1091 - Aidan" },
+    { "responseLine26": "Σ1092 - Ariv" },
+    { "responseLine27": "Σ1093 - Reagan" },
+    { "responseLine28": "Σ1094 - Luke M." },
+    { "responseLine29": "Σ1095 - Gabe" },
+    { "responseLine30": "Σ1096 - Jayden" },
+    { "responseLine31": "Σ1097 - Zach Sc." },
+    { "responseLine32": "Σ1098 - Parker" },
+    { "responseLine33": "Σ1099 - Luke S." },
+    { "responseLine34": "Σ1100 - Jack W." },
+    { "responseLine35": "Σ1101 - Alex" },
+    { "responseLine36": "Σ1102 - Michael L." },
+    { "responseLine37": "Σ1103 - Akhil" },
+    { "responseLine38": "Σ1104 - Edgar" },
+    { "responseLine39": "Σ1105 - Andrew" }
   ],
-  "!ping": [
-    { "responseLine1": "pong" }
+  
+  "!pledges": [
+    { "responseLine1": "Scranton"}
+  ],
+
+  "!calendar": [
+    { "responseLine1": "Nothing yet"}
+  ],
+
+  "!barshift": [
+    { "responseLine1": "Nothing yet"}
+  ],
+
+  "!doorshift": [
+    { "responseLine1": "Nothing yet"}
+  ],
+
+  "!fent": "https://i.groupme.com/1656x2208.jpeg.9d6723ef6bac44e484f784a5fbe3f9ed",
+
+  "!laquardius": "https://i.groupme.com/1024x1024.png.f79c7dcb34ce49b3a9a98b27395a6290",
+
+  "!mariogoatse": "https://i.groupme.com/1080x1080.png.cc9a8397924440b6b78524bdf06c3d8c",
+
+  "!gay": "https://i.groupme.com/621x765.jpeg.f8f58fc287cf4e19beaf4727cce1281f",
+
+  "!whipped": "https://i.groupme.com/4032x3024.jpeg.4d9d5faac12048aeb43f4efef034a8d1",
+
+  "!spamstopper": "https://i.groupme.com/1179x2556.jpeg.2fe6abbfd31b486293b28de560a08125",
+
+  "!beer": "https://i.groupme.com/1024x1024.png.337e30d6311248eaba4b400360781c60",
+
+  "!help": [
+    { "responseLine1": "!door" },
+    { "responseLine2": "!actives" },
+    { "responseLine3": "!pledges" },
+    { "responseLine4": "!calendar" },
+    { "responseLine5": "!barshift" },
+    { "responseLine6": "!doorshift" }
   ]
+
+
 }
