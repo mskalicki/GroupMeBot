@@ -50,8 +50,9 @@
   ],
 
   "!calendar": [
-    { "responseLine1": "Thurs 8/28: chipotle rush event"},
-    { "responseLine1": "Sun 8/31: mario kart rush event"}
+    { "responseLine1": "Thurs 8/28: 7:00 PM - chipotle rush event (be there at 6:30)"},
+    { "responseLine1": "Fri 8/29: 5:00 PM - group 1 setup"},
+    { "responseLine1": "Sun 8/31: 4:00 PM - mario kart rush event"}
   ],
 
   "!barshift": [
@@ -62,7 +63,7 @@
     { "responseLine1": "Nothing yet"}
   ],
 
-  "!groups": "https://m.groupme.com/uploads/1f9e490b2a72409ca4255beafc0d8310/677x563.original.jpeg.large",
+  "!groups": "https://i.groupme.com/1179x972.jpeg.36886ec96d554b50a38b625c1096ab3b",
 
   "!fent": "https://i.groupme.com/1656x2208.jpeg.9d6723ef6bac44e484f784a5fbe3f9ed",
 
