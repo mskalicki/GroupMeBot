@@ -56,11 +56,47 @@
   ],
 
   "!barshift": [
-    { "responseLine1": "Nothing yet"}
+    { "responseLine1": "BLOCK SHIFTS:"},
+    { "responseLine1": "8:00 : Ariv & Thomas"},
+    { "responseLine1": "8:30 : Graham & Jacob"},
+    { "responseLine1": "9:00 : Varun & Bereal"},
+    { "responseLine1": "9:30 : Gaaron & Freeze"},
+    { "responseLine1": "10:00 : Braeden & Grahm"},
+    { "responseLine1": "10:30 : Thomas & Jack #1"},
+    { "responseLine1": "11:00 : Varun & Cooper"},
+    { "responseLine1": "11:30 : Jerm (whipped)"},
+    { "responseLine1": ""},
+    { "responseLine1": "AFTERS SHIFTS:"},
+    { "responseLine1": "10:00 : Jerm and Jacob"},
+    { "responseLine1": "10:30 : Graham & BeReal"},
+    { "responseLine1": "11:00 : Varun & Jack #1"},
+    { "responseLine1": "11:30 : Gaaron & Freeze"},
+    { "responseLine1": "12:00 : Braeden & Grahm"},
+    { "responseLine1": "12:30 : Reagan & Krish"},
+    { "responseLine1": "1:00 : Varun & Akhil"},
+    { "responseLine1": "1:30 : Cooper & Edgar"}
   ],
 
   "!doorshift": [
-    { "responseLine1": "Nothing yet"}
+    { "responseLine1": "BLOCK SHIFTS:"},
+    { "responseLine1": "8:00 : Andrew & Mischievous"},
+    { "responseLine1": "8:30 : Andrew & Reagan"},
+    { "responseLine1": "9:00 : Jack #3 & Krish"},
+    { "responseLine1": "9:30 : Parker & Aidan"},
+    { "responseLine1": "10:00 : Schwartz & Edgar"},
+    { "responseLine1": "10:30 : Alex & Gabe"},
+    { "responseLine1": "11:00 : Akhil & Jayden"},
+    { "responseLine1": "11:30 : Light & Scranton"},
+    { "responseLine1": ""},
+    { "responseLine1": "AFTERS SHIFTS:"},
+    { "responseLine1": "10:00 : Mischievous & Edgar"},
+    { "responseLine1": "10:30 : Skibidi & Akhil"},
+    { "responseLine1": "11:00 : Jack #3 & Ariv"},
+    { "responseLine1": "11:30 : Parker & Skibidi"},
+    { "responseLine1": "12:00 : Reagan & Aidan"},
+    { "responseLine1": "12:30 : Alex & Gabe"},
+    { "responseLine1": "1:00 : Nolan & Jayden"},
+    { "responseLine1": "1:30 : Nolan & Scranton"}
   ],
 
   "!groups": "https://i.groupme.com/1179x972.jpeg.36886ec96d554b50a38b625c1096ab3b",
