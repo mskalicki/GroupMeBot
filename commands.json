@@ -1,5 +1,5 @@
 {
-  "!door": "2438",
+  "!door": "9432",
 
   "!wifi": "bdtc1924",
   
@@ -50,9 +50,11 @@
   ],
 
   "!calendar": [
-    { "responseLine1": "Thurs 8/28: 7:00 PM - chipotle rush event (be there at 6:30)"},
-    { "responseLine1": "Fri 8/29: 5:00 PM - group 1 setup"},
-    { "responseLine1": "Sun 8/31: 4:00 PM - mario kart rush event"}
+    { "responseLine1": "Sun 8/31: 1:00 PM - group 2 cleanup"},
+    { "responseLine1": "Sun 8/31: 2:30 PM - chapter"},
+    { "responseLine1": "Sun 8/31: 4:00 PM - mario kart rush event"},
+    { "responseLine1": "Tue 9/2: 7:00 PM - resume workshop"},
+    { "responseLine1": "Thu 9/4: 8:00 PM - poker night"}
   ],
 
   "!barshift": [
@@ -99,7 +101,7 @@
     { "responseLine1": "1:30 : Nolan & Scranton"}
   ],
 
-  "!groups": "https://i.groupme.com/1179x972.jpeg.36886ec96d554b50a38b625c1096ab3b",
+  "!groups": "https://i.groupme.com/1179x958.jpeg.ce803ee24d6649ae8ab01b7b8bc196c4",
 
   "!fent": "https://i.groupme.com/1656x2208.jpeg.9d6723ef6bac44e484f784a5fbe3f9ed",
 
