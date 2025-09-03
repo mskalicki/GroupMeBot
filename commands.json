@@ -6,19 +6,15 @@
   "!standards": "https://docs.google.com/forms/d/e/1FAIpQLScXktdcrC3qgcrLQ3j-ZOhcSvsGH2MUWHpwfQrwn8L57C3SuQ/viewform?usp=sf_link",
   
   "!actives": [
-    { "responseLine1": "Σ1060 - Aaron S." },
     { "responseLine1": "Σ1062 - Jacob" },
     { "responseLine1": "Σ1063 - Graham" },
     { "responseLine1": "Σ1065 - Nate H." },
-    { "responseLine1": "Σ1066 - Aneetej" },
     { "responseLine1": "Σ1067 - Matteo" },
     { "responseLine1": "Σ1068 - Jay" },
     { "responseLine1": "Σ1070 - Jack G." },
     { "responseLine1": "Σ1071 - Emmett" },
     { "responseLine1": "Σ1072 - Akshat" },
-    { "responseLine1": "Σ1076 - Zack Sh." },
     { "responseLine1": "Σ1077 - Nate F." },
-    { "responseLine1": "Σ1078 - Josh" },
     { "responseLine1": "Σ1079 - Aaron B." },
     { "responseLine1": "Σ1081 - Grahm" },
     { "responseLine1": "Σ1082 - Braeden" },
@@ -56,11 +52,11 @@
     { "responseLine1": "Mon 9/1: 1:00 PM - borg darty"},
     { "responseLine1": "Tue 9/2: 8:00 PM - resume workshop"},
     { "responseLine1": "Thu 9/4: 8:00 PM - poker night"},
-    { "responseLine1": "Fri 9/5: ??? PM - group 3 setup"},
+    { "responseLine1": "Fri 9/5: 5:45 PM - group 3 + shinies setup"},
     { "responseLine1": "Fri 9/5: 9:00 PM - beerball tourney"},
     { "responseLine1": "Sat 9/6: 11:30 PM - block"},
     { "responseLine1": "Thu 9/4: 8:00 PM - poker night"},
-    { "responseLine1": "Sun 9/7: 4:30 PM - group 1 cleanup"},
+    { "responseLine1": "Sun 9/7: 4:30 PM - group 1 + shinies cleanup"},
     { "responseLine1": "Sun 9/7: 6:00 PM - bid chapter"}
 
   ],
