@@ -48,16 +48,13 @@
   ],
 
   "!calendar": [
-    { "responseLine1": "Sun 8/31: 4:00 PM - mario kart rush event"},
-    { "responseLine1": "Mon 9/1: 1:00 PM - borg darty"},
-    { "responseLine1": "Tue 9/2: 8:00 PM - resume workshop"},
-    { "responseLine1": "Thu 9/4: 8:00 PM - poker night"},
-    { "responseLine1": "Fri 9/5: 5:45 PM - group 3 + shinies setup"},
-    { "responseLine1": "Fri 9/5: 9:00 PM - beerball tourney"},
-    { "responseLine1": "Sat 9/6: 11:30 PM - block"},
-    { "responseLine1": "Sun 9/7: 4:30 PM - group 1 + shinies cleanup"},
-    { "responseLine1": "Sun 9/7: 5:30 PM - bid chapter"}
-
+    { "responseLine1": "Wed 9/10: 6:00 PM - pinning + BD's (show up 5:30)"},
+    { "responseLine1": "Fri 9/12: 6:00 PM - group 2 setup"},
+    { "responseLine1": "Fri 9/12: TBD PM - OU TT mixer at house"},
+    { "responseLine1": "Sat 9/13: 3:30 PM - block (show up 2:30)"},
+    { "responseLine1": "Sun 9/14: TBD PM - group 3 cleanup"},
+    { "responseLine1": "Sun 9/14: TBD PM - chapter"},
+    { "responseLine1": "Sun 9/14: TBD PM - pledge meeting 1"}
   ],
 
   "!doorshift": [
