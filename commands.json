@@ -44,7 +44,21 @@
   ],
   
   "!pledges": [
-    { "responseLine1": "Scranton"}
+    { "responseLine1": "Keegan - 330-501-7508"},
+    { "responseLine1": "Ethan - 937-738-8308"},
+    { "responseLine1": "Brandon - 216-469-6904"},
+    { "responseLine1": "Jakub - 440-390-2205"},
+    { "responseLine1": "Elliot - 937-999-9672"},
+    { "responseLine1": "Samson - 732-507-8993"},
+    { "responseLine1": "Gavin - 317-400-3857"},
+    { "responseLine1": "Coen - 440-482-9485"},
+    { "responseLine1": "Will - 937-956-3863"},
+    { "responseLine1": "Krish - 614-756-1909"},
+    { "responseLine1": "David - 914-327-7172"},
+    { "responseLine1": "Tommaso - 513-567-2550"},
+    { "responseLine1": "Braden - 513-614-3851"},
+    { "responseLine1": "Norman - 213-503-8449"},
+    { "responseLine1": "Griffin - 740-541-0200"}
   ],
 
   "!calendar": [
