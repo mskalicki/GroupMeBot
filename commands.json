@@ -44,31 +44,28 @@
   ],
   
   "!pledges": [
-    { "responseLine1": "Keegan - 330-501-7508"},
-    { "responseLine1": "Ethan - 937-738-8308"},
-    { "responseLine1": "Brandon - 216-469-6904"},
-    { "responseLine1": "Jakub - 440-390-2205"},
-    { "responseLine1": "Elliot - 937-999-9672"},
-    { "responseLine1": "Samson - 732-507-8993"},
-    { "responseLine1": "Gavin - 317-400-3857"},
-    { "responseLine1": "Coen - 440-482-9485"},
-    { "responseLine1": "Will - 937-956-3863"},
-    { "responseLine1": "Krish - 614-756-1909"},
-    { "responseLine1": "David - 914-327-7172"},
-    { "responseLine1": "Tommaso - 513-567-2550"},
-    { "responseLine1": "Braden - 513-614-3851"},
-    { "responseLine1": "Norman - 213-503-8449"},
-    { "responseLine1": "Griffin - 740-541-0200"}
+    { "responseLine1": "Keegan Kilpatrick - 330-501-7508"},
+    { "responseLine1": "Ethan Boylan - 937-738-8308"},
+    { "responseLine1": "Brandon Schneider - 216-469-6904"},
+    { "responseLine1": "Jakub Bartosiewicz- 440-390-2205"},
+    { "responseLine1": "Elliot Moyer - 937-999-9672"},
+    { "responseLine1": "Samson Silver - 732-507-8993"},
+    { "responseLine1": "Gavin Cox - 317-400-3857"},
+    { "responseLine1": "Coen Bonacci - 440-482-9485"},
+    { "responseLine1": "Krish Panicker - 614-756-1909"},
+    { "responseLine1": "David Valencia - 914-327-7172"},
+    { "responseLine1": "Tommaso Caggioni - 513-567-2550"},
+    { "responseLine1": "Braden Blackwelder - 513-614-3851"},
+    { "responseLine1": "Norman Maxy - 213-503-8449"},
+    { "responseLine1": "Griffin Prebe - 740-541-0200"}
   ],
 
   "!calendar": [
-    { "responseLine1": "Wed 9/10: 6:00 PM - pinning + BD's (show up 5:30)"},
-    { "responseLine1": "Fri 9/12: 6:15 PM - group 2 setup"},
-    { "responseLine1": "Fri 9/12: 8:00 PM - OU TT mixer at house"},
-    { "responseLine1": "Sat 9/13: 3:00 PM - block (show up 2:00)"},
-    { "responseLine1": "Sun 9/14: 5:00 PM - group 3 cleanup"},
-    { "responseLine1": "Sun 9/14: 6:00 PM - chapter"},
-    { "responseLine1": "Sun 9/14: 7:00 PM - pledge meeting 1"}
+    { "responseLine1": "Thurs 9/18: 7:00 PM - date party @ fives (pregame at 6)"},
+    { "responseLine1": "Fri 9/19: TBD PM - case race"},
+    { "responseLine1": "Sun 9/21: 5:00 PM - group 1 cleanup"},
+    { "responseLine1": "Sun 9/21: 6:00 PM - chapter"},
+    { "responseLine1": "Sun 9/21: 7:00 PM - pledge meeting 2"}
   ],
 
   "!doorshift": [
