@@ -70,24 +70,26 @@
   ],
 
   "!doorshift": [
-    { "responseLine1": "11:30 : Alex & Jack #3"},
-    { "responseLine1": "12:00 : Light & Parker"},
-    { "responseLine1": "12:30 : Reagan and Akhil"},
-    { "responseLine1": "1:00 : Jayden & Ariv"},
-    { "responseLine1": "1:30 : Jayden & Aidan"},
-    { "responseLine1": "2:00 : Gabe & Skibidi"},
-    { "responseLine1": "2:30 : Edgar & Schwartz"},
-    { "responseLine1": "3:00 : Andrew & Scranton"}
+    { "responseLine1": "3:30 : David & Cooper"},
+    { "responseLine1": "4:00 : Griffin & Reagan"},
+    { "responseLine1": "4:30 : Gavin & Jayden"},
+    { "responseLine1": "5:00 : Coen & Krish"},
+    { "responseLine1": "5:30 : Ethan & Light"},
+    { "responseLine1": "6:00 : Norman & Edgar"},
+    { "responseLine1": "6:30 : Griffin & Akhil"},
+    { "responseLine1": "7:00 : Keegan & Nolan"}
     
   ],
 
   "!barshift": [
-    { "responseLine1": "8:00 : Andrew & Edgar"},
-    { "responseLine1": "8:30 : Light & Akhil"},
-    { "responseLine1": "9:00 : Scranton & Alex"},
-    { "responseLine1": "9:30 : Gabe & Mischievious"}
-    
-    
+    { "responseLine1": "3:30 : Jack #1 & JB"},
+    { "responseLine1": "4:00 : Jack #1 & Elliot"},
+    { "responseLine1": "4:30 : Jacob & Grom"},
+    { "responseLine1": "5:00 : Gaaron & Grom"},
+    { "responseLine1": "5:30 : Cooper & Braeden"},
+    { "responseLine1": "6:00 : Reagan & Varun"},
+    { "responseLine1": "6:30 : Light & Jayden"},
+    { "responseLine1": "7:00 : Edgar & Krish"}
   ],
 
   "!groups": "https://i.groupme.com/1179x958.jpeg.ce803ee24d6649ae8ab01b7b8bc196c4",
