@@ -59,10 +59,11 @@
   ],
 
   "!calendar": [
-    { "responseLine1": "Fri 10/31: 10:00 PM - halloween party"},
-    { "responseLine1": "Sat 11/1: 8:00 AM - penn state block"},
-    { "responseLine1": "Sun 11/2: 6:00 PM - chapter"},
-    { "responseLine1": "Sun 11/2: 7:00 PM - pedge meeting"}
+    { "responseLine1": "Tue/Wed 11/4 & 11/5: 7:00 PM - funny tables!"},
+    { "responseLine1": "Fri 11/7: 8:00 PM - lego building event"},
+    { "responseLine1": "Sat 11/8: 10:00 PM - phi rho tg (rave theme)"},
+    { "responseLine1": "Sun 11/9: 6:00 PM - election chapter?"},
+    { "responseLine1": "Sun 11/9: TBD PM - pedge meeting"}
   ],
 
   "!doorshift": [
@@ -105,6 +106,8 @@
   "!spamstopper": "https://i.groupme.com/1179x2556.jpeg.2fe6abbfd31b486293b28de560a08125",
 
   "!beer": "https://forms.gle/Bn4AYsKNPkAJkpnd6",
+
+  "!oldbeer": "https://i.groupme.com/1024x1024.png.337e30d6311248eaba4b400360781c60",
 
   "!mango": "https://i.groupme.com/220x220.gif.e44c44a73fa3453b8ee9d909caf3899f",
 
