@@ -61,11 +61,12 @@
   ],
 
   "!calendar": [
-    { "responseLine1": "Tue/Wed 11/4 & 11/5: 7:00 PM - funny tables!"},
-    { "responseLine1": "Fri 11/7: 8:00 PM - lego building event"},
-    { "responseLine1": "Sat 11/8: 10:00 PM - phi rho tg (rave theme)"},
-    { "responseLine1": "Sun 11/9: 6:00 PM - election chapter?"},
-    { "responseLine1": "Sun 11/9: TBD PM - pedge meeting"}
+    { "responseLine1": "Tue 11/11: 5:30 PM - 9/11 ball"},
+    { "responseLine1": "Tue 11/11: 7:30 PM - list party"},
+    { "responseLine1": "Fri 11/14: 8:00 PM - presentation night"},
+    { "responseLine1": "Sat 11/15: 3:30 PM - UCLA block"},
+    { "responseLine1": "Sun 11/16: TBD PM - chapter"},
+    { "responseLine1": "Sun 11/16: TBD PM - karaoke night (start of I-week)"}
   ],
 
   "!doorshift": [
