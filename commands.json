@@ -61,12 +61,13 @@
   ],
 
   "!calendar": [
-    { "responseLine1": "Tue 11/11: 5:30 PM - 9/11 ball"},
-    { "responseLine1": "Tue 11/11: 7:30 PM - list party"},
-    { "responseLine1": "Fri 11/14: 8:00 PM - presentation night"},
-    { "responseLine1": "Sat 11/15: 3:30 PM - UCLA block"},
-    { "responseLine1": "Sun 11/16: 6:30 PM - chap (chapter)"},
-    { "responseLine1": "Sun 11/16: after chap - PD event + pedge meeting + karaoke + start of I-week"}
+    { "responseLine1": "Mon 11/17: Nationals test - ALL ACTIVES 7:30, test at 8:30"},
+    { "responseLine1": "Tue 11/18: Wing night - ALL ACTIVES 5:30, roosters at 7:00"},
+    { "responseLine1": "Wed 11/19: GAC - Actives at house at 7:00, starts at 8:00"},
+    { "responseLine1": "Thu 11/20: Fun night - ALL ACTIVES 6:30, paddle/trees start at 7:30"},
+    { "responseLine1": "Fri 11/21: AA night - SHINIES 4:30, ALL ACTIVES 5:00, pledges arrive 6:14:41 PM"},
+    { "responseLine1": "Sat 11/22: Rutgers block - 8:00 AM"},
+    { "responseLine1": "Sun 11/23: Initiation chap - TBD PM"}
   ],
 
   "!doorshift": [
