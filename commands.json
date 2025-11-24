@@ -14,7 +14,6 @@
     { "responseLine1": "Σ1067 - Matteo" },
     { "responseLine1": "Σ1068 - Jay" },
     { "responseLine1": "Σ1070 - Jack G." },
-    { "responseLine1": "Σ1071 - Emmett" },
     { "responseLine1": "Σ1072 - Akshat" },
     { "responseLine1": "Σ1077 - Nate F." },
     { "responseLine1": "Σ1079 - Aaron B." },
@@ -42,32 +41,27 @@
     { "responseLine1": "Σ1102 - Michael L." },
     { "responseLine1": "Σ1103 - Akhil" },
     { "responseLine1": "Σ1104 - Edgar" },
-    { "responseLine1": "Σ1105 - Andrew" }
+    { "responseLine1": "Σ1105 - Andrew" },
+    { "responseLine1": "Σ1106 - Keegan" },
+    { "responseLine1": "Σ1107 - David" },
+    { "responseLine1": "Σ1108 - Jakub" },
+    { "responseLine1": "Σ1109 - Ethan" },
+    { "responseLine1": "Σ1110 - Elliot" },
+    { "responseLine1": "Σ1111 - Krish P." },
+    { "responseLine1": "Σ1112 - Coen" },
+    { "responseLine1": "Σ1113 - Griffin" },
+    { "responseLine1": "Σ1114 - Gaven." },
+    { "responseLine1": "Σ1115 - Brandon" },
+    { "responseLine1": "Σ1116 - Samson" },
+    { "responseLine1": "Σ1117 - Norman" }
   ],
   
   "!pledges": [
-    { "responseLine1": "Keegan Kilpatrick - 330-501-7508"},
-    { "responseLine1": "Ethan Boylan - 937-738-8308"},
-    { "responseLine1": "Brandon Schneider - 216-469-6904"},
-    { "responseLine1": "Jakub Bartosiewicz- 440-390-2205"},
-    { "responseLine1": "Elliot Moyer - 937-999-9672"},
-    { "responseLine1": "Samson Silver - 732-507-8993"},
-    { "responseLine1": "Gavin Cox - 317-400-3857"},
-    { "responseLine1": "Coen Bonacci - 440-482-9485"},
-    { "responseLine1": "Krish Panicker - 614-756-1909"},
-    { "responseLine1": "David Valencia - 914-327-7172"},
-    { "responseLine1": "Norman Maxy - 213-503-8449"},
-    { "responseLine1": "Griffin Prebe - 740-541-0200"}
+    { "responseLine1": "Jerm"}
   ],
 
   "!calendar": [
-    { "responseLine1": "Mon 11/17: Nationals test - ALL ACTIVES 7:30, test at 8:30"},
-    { "responseLine1": "Tue 11/18: Wing night - ALL ACTIVES 5:30, roosters at 7:00"},
-    { "responseLine1": "Wed 11/19: GAC - Actives at house at 7:00, starts at 8:00"},
-    { "responseLine1": "Thu 11/20: Fun night - ALL ACTIVES 6:30, paddle/trees start at 7:30"},
-    { "responseLine1": "Fri 11/21: AA night - SHINIES 4:30, ALL ACTIVES 5:00, pledges arrive 6:14:41 PM"},
-    { "responseLine1": "Sat 11/22: Rutgers block - 8:00 AM"},
-    { "responseLine1": "Sun 11/23: Initiation chap - TBD PM"}
+    { "responseLine1": "I hate shinies"}
   ],
 
   "!doorshift": [
@@ -104,6 +98,8 @@
   "!mariogoatse": "https://i.groupme.com/1080x1080.png.cc9a8397924440b6b78524bdf06c3d8c",
 
   "!gay": "https://i.groupme.com/621x765.jpeg.f8f58fc287cf4e19beaf4727cce1281f",
+
+  "!rape": "https://m.groupme.com/uploads/708681e339cd4304b6de7a288dd320e2/943x650.original.jpeg.large",
 
   "!whipped": "https://i.groupme.com/4032x3024.jpeg.4d9d5faac12048aeb43f4efef034a8d1",
 
