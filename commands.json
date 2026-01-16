@@ -9,7 +9,6 @@
   
   "!actives": [
     { "responseLine1": "Σ1062 - Jacob" },
-    { "responseLine1": "Σ1063 - Graham" },
     { "responseLine1": "Σ1065 - Nate H." },
     { "responseLine1": "Σ1067 - Matteo" },
     { "responseLine1": "Σ1068 - Jay" },
@@ -72,26 +71,26 @@
   ],
 
   "!doorshift": [
-    { "responseLine1": "3:30 : David & Cooper"},
-    { "responseLine1": "4:00 : Griffin & Reagan"},
-    { "responseLine1": "4:30 : Gavin & Jayden"},
-    { "responseLine1": "5:00 : Coen & Krish"},
-    { "responseLine1": "5:30 : Ethan & Light"},
-    { "responseLine1": "6:00 : Norman & Edgar"},
-    { "responseLine1": "6:30 : Griffin & Akhil"},
-    { "responseLine1": "7:00 : Keegan & Nolan"}
+    { "responseLine1": "10:00 : German Mike & Edgar"},
+    { "responseLine1": "10:30 : Andrew & Akhil"},
+    { "responseLine1": "11:00 : David & Keegan"},
+    { "responseLine1": "11:30 : Ethan & Jakub"},
+    { "responseLine1": "12:00 : Krish P. & Elliot"},
+    { "responseLine1": "12:30 : Griffin & Coen"},
+    { "responseLine1": "1:00 : Brandon & Gaven"},
+    { "responseLine1": "1:30 : Norman & Samson"}
     
   ],
 
   "!barshift": [
-    { "responseLine1": "3:30 : Jack #1 & JB"},
-    { "responseLine1": "4:00 : Jack #1 & Elliot"},
-    { "responseLine1": "4:30 : Jacob & Grom"},
-    { "responseLine1": "5:00 : Gaaron & Grom"},
-    { "responseLine1": "5:30 : Cooper & Braeden"},
-    { "responseLine1": "6:00 : Reagan & Varun"},
-    { "responseLine1": "6:30 : Light & Jayden"},
-    { "responseLine1": "7:00 : Edgar & Krish"}
+    { "responseLine1": "10:00 : Cooper & Varun"},
+    { "responseLine1": "10:30 : Krish (someone replace) & Adi"},
+    { "responseLine1": "11:00 : Mike S. & Aidan"},
+    { "responseLine1": "11:30 : Reagan & Ariv"},
+    { "responseLine1": "12:00 : Luke M. & Gabe"},
+    { "responseLine1": "12:30 : Zach Sc. & Jayden"},
+    { "responseLine1": "1:00 : Luke S. & Parker"},
+    { "responseLine1": "1:30 : Alex & Jack W."}
   ],
 
   "!groups": "https://m.groupme.com/uploads/f5ca8c76bb5c4a08b7ad8f1c86dbbdc2/873x922.original.jpeg",
