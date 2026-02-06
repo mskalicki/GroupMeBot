@@ -11,20 +11,18 @@
     { "responseLine1": "Σ1062 - Jacob" },
     { "responseLine1": "Σ1065 - Nate H." },
     { "responseLine1": "Σ1067 - Matteo" },
-    { "responseLine1": "Σ1068 - Jay" },
     { "responseLine1": "Σ1070 - Jack G." },
     { "responseLine1": "Σ1072 - Akshat" },
     { "responseLine1": "Σ1077 - Nate F." },
     { "responseLine1": "Σ1079 - Aaron B." },
-    { "responseLine1": "Σ1081 - Grahm" },
+    { "responseLine1": "Σ1081 - Grahm (MIA)" },
     { "responseLine1": "Σ1082 - Braeden" },
     { "responseLine1": "Σ1083 - Jerm" },
     { "responseLine1": "Σ1084 - Nolan" },
     { "responseLine1": "Σ1085 - Thomas" },
-    { "responseLine1": "Σ1086 - Cooper" },
+    { "responseLine1": "Σ1086 - Cooper (MIA)" },
     { "responseLine1": "Σ1087 - Varun" },
-    { "responseLine1": "Σ1088 - Adi" },
-    { "responseLine1": "Σ1089 - Krish" },
+    { "responseLine1": "Σ1089 - Krish (MIA)" },
     { "responseLine1": "Σ1090 - Mike S." },
     { "responseLine1": "Σ1091 - Aidan" },
     { "responseLine1": "Σ1092 - Ariv" },
@@ -57,7 +55,6 @@
   
   "!pledges": [
     { "responseLine1": "Tim Roush ME: 330-636-0345"},
-    { "responseLine1": "Vihaan Soni ECE: 614-717-3154"},
     { "responseLine1": "Evan Bandy ECE: 440-219-9142"},
     { "responseLine1": "Zach Nehez ME: 440-590-6676"},
     { "responseLine1": "Matt Bloom ME: 216-672-9263"},
@@ -67,8 +64,6 @@
   ],
 
   "!tim": "https://i.groupme.com/536x722.png.0ae468a3b889436399ebc2839e6be732",
-
-  "!vihaan": "https://i.groupme.com/770x524.png.622d997858c244acafde86145ce7d276",
 
   "!evan": "https://i.groupme.com/572x797.png.afbafb9cf7154c709df866f20de1d258",
 
@@ -86,10 +81,10 @@
 
   "!calendar": [
     { "responseLine1": "Fri 2/6: 8:30 PM - case race"},
-    { "responseLine1": "Fri 2/6 or Sat 2/7: TBD PM - group 2? cleanup/setup for tg"},
+    { "responseLine1": "Fri 2/6: 7:30 PM - group 2 cleanup/setup for tg"},
     { "responseLine1": "Sat 2/7: 8:00 PM - G Phi TG (country/country club theme"},
-    { "responseLine1": "Sun 2/8: TBD PM - group 3? cleanup"},
-    { "responseLine1": "Sun 2/8: TBD PM - chap + pledge meeting"},
+    { "responseLine1": "Sun 2/8: TBD PM - group 3 cleanup"},
+    { "responseLine1": "Sun 2/8: 2:00 PM - chap + pledge meeting"},
     { "responseLine1": "Sun 2/8: 6:30 PM - super bowl watch party"}
 
    
