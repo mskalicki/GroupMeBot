@@ -91,26 +91,20 @@
   ],
 
   "!doorshift": [
-    { "responseLine1": "10:00 : German Mike & Edgar"},
-    { "responseLine1": "10:30 : Andrew & Akhil"},
-    { "responseLine1": "11:00 : David & Keegan"},
-    { "responseLine1": "11:30 : Ethan & Jakub"},
-    { "responseLine1": "12:00 : Krish P. & Elliot"},
-    { "responseLine1": "12:30 : Griffin & Coen"},
-    { "responseLine1": "1:00 : Brandon & Gaven"},
-    { "responseLine1": "1:30 : Norman & Samson"}
+    { "responseLine1": "8:00 : Pledge Niko & David"},
+    { "responseLine1": "8:30 : Pledge Evan & Gaven"},
+    { "responseLine1": "9:00 : Pledge Zach & Brandon"},
+    { "responseLine1": "9:30 : Pledge Will & Norman"}
+    
     
   ],
 
   "!barshift": [
-    { "responseLine1": "10:00 : Cooper & Varun"},
-    { "responseLine1": "10:30 : Krish (someone replace) & Adi"},
-    { "responseLine1": "11:00 : Mike S. & Aidan"},
-    { "responseLine1": "11:30 : Reagan & Ariv"},
-    { "responseLine1": "12:00 : Luke M. & Gabe"},
-    { "responseLine1": "12:30 : Zach Sc. & Jayden"},
-    { "responseLine1": "1:00 : Luke S. & Parker"},
-    { "responseLine1": "1:30 : Alex & Jack W."}
+    { "responseLine1": "8:00 : Coen & Elliot"},
+    { "responseLine1": "8:30 : Ethan & Keegan"},
+    { "responseLine1": "9:00 : Jakub & Edgar"},
+    { "responseLine1": "9:30 : Akhil & Mike L."}
+  
   ],
 
   "!groups": "https://m.groupme.com/uploads/f5ca8c76bb5c4a08b7ad8f1c86dbbdc2/873x922.original.jpeg",
