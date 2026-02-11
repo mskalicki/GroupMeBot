@@ -54,18 +54,12 @@
   ],
   
   "!pledges": [
-    { "responseLine1": "Tim Roush ME: 330-636-0345"},
-    { "responseLine1": "Evan Bandy ECE: 440-219-9142"},
     { "responseLine1": "Zach Nehez ME: 440-590-6676"},
     { "responseLine1": "Matt Bloom ME: 216-672-9263"},
     { "responseLine1": "Niko Krauland ME: 860-810-3383"},
     { "responseLine1": "Akhil Patel BME: 972-904-0980"},
     { "responseLine1": "Will Kapszukiewicz ISE: 419-265-4971"}
   ],
-
-  "!tim": "https://i.groupme.com/536x722.png.0ae468a3b889436399ebc2839e6be732",
-
-  "!evan": "https://i.groupme.com/572x797.png.afbafb9cf7154c709df866f20de1d258",
 
   "!zach": "https://i.groupme.com/670x898.png.04ca8f3d06d4497aa11a1421931b2421",
 
@@ -80,12 +74,11 @@
 
 
   "!calendar": [
-    { "responseLine1": "Fri 2/6: 7:30 PM - group 2 cleanup/setup for tg"},
-    { "responseLine1": "Fri 2/6: 8:30 PM - case race"},
-    { "responseLine1": "Sat 2/7: 8:00 PM - G Phi TG (country/country club theme"},
-    { "responseLine1": "Sun 2/8: TBD PM - group 3 cleanup"},
-    { "responseLine1": "Sun 2/8: 2:00 PM - chap + pledge meeting"},
-    { "responseLine1": "Sun 2/8: 6:30 PM - super bowl watch party"}
+    { "responseLine1": "Thu 2/12: 7:30 PM - how to talk to women event"},
+    { "responseLine1": "Fri 2/13: 8:30 PM - big little (be there at 8, shinies 7:30 setup)"},
+    { "responseLine1": "Sat 2/14: TBD PM - brotherhood chud day"},
+    { "responseLine1": "Sun 2/15: 5:00 PM - group 1? cleanup"},
+    { "responseLine1": "Sun 2/15: 6:00 PM - chap + pledge meeting"}
 
    
   ],
@@ -142,6 +135,12 @@
   "!chud": "https://m.groupme.com/uploads/f6ecfbaad75442a29d370c1bfc9e22fe/499x604.original.jpeg",
 
   "!jew": "https://m.groupme.com/uploads/a3c5de953b7e469b883986ae0f762796/220x220.original.gif",
+
+  "!mew": "https://m.groupme.com/uploads/8f518e05fe3b4959b9bd541fff697710/2316x3088.original.jpeg",
+
+  "!cityboy": "https://m.groupme.com/uploads/f797314897804270b809af2cfaa004f3/1200x675.original.jpeg",
+
+  "!framemog": "https://m.groupme.com/uploads/ac54239289914418a20bb800318f4144/1242x2208.original.jpeg",
 
   "!reddit": "Reddit and its not even fucking close. No where do you get such diversity to specify an individuals worm needs. Want a specific category? Boom just slap an r/ in front of it. Twitter is too heavily dependent on knowing the different usernames, and in some instances, its a Walmart onlyfans. Reddit is a community of worm lovers who share their onlyfan subscription and leaks. That doesnt exist on twitter. No where will you find a closer knit group of porn addicts. Reddit is the superior worm resource. Its impossible to be stumped with nothing to watch cus literally everything is there. Dont ever compare twitter to Reddit again.",
 
