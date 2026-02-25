@@ -74,12 +74,10 @@
 
 
   "!calendar": [
-    { "responseLine1": "Fri 2/20: 4:00 PM - cookout/pregame at house (food at 5:30-6 ish)"},
-    { "responseLine1": "Fri 2/20: 8:00 PM - date party @ Leo's"},
-    { "responseLine1": "Sat 2/21: 3:00 PM - group 1 + pedge setup"},
-    { "responseLine1": "Sat 2/21: 8:00 PM - Phi Rho TG (Mardi Gras themed)"},
-    { "responseLine1": "Sun 2/12: 5:00 PM - group 2 + pedge cleanup"},
-    { "responseLine1": "Sun 2/12: 6:00 PM - chap"}
+    { "responseLine1": "Fri 2/27: 8:30 PM - 30 for 30"},
+    { "responseLine1": "Sun 3/1: 5:00 PM - group 3 cleanup"},
+    { "responseLine1": "Sun 3/1: 6:00 PM - chap"}
+    
 
    
   ],
