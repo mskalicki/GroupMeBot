@@ -74,9 +74,11 @@
 
 
   "!calendar": [
-    { "responseLine1": "Fri 2/27: 8:30 PM - 30 for 30"},
-    { "responseLine1": "Sun 3/1: 5:00 PM - group 3 cleanup"},
-    { "responseLine1": "Sun 3/1: 6:00 PM - chap"}
+    { "responseLine1": "Fri 3/6: 8:30 PM - 40 hands"},
+    { "responseLine1": "Fri 3/6 or Sat 3/7: TBD PM - group 1 setup for tg"},
+    { "responseLine1": "Sat 3/7: 8:00 PM - DOK TG (saint paddys theme)"},
+    { "responseLine1": "Sun 3/8: 5:00 PM - group 2 cleanup"},
+    { "responseLine1": "Sun 3/8: 6:00 PM - chap"}
     
 
    
