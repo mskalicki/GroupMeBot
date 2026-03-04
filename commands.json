@@ -46,7 +46,6 @@
     { "responseLine1": "Σ1110 - Elliot" },
     { "responseLine1": "Σ1111 - Krish P." },
     { "responseLine1": "Σ1112 - Coen" },
-    { "responseLine1": "Σ1113 - Griffin" },
     { "responseLine1": "Σ1114 - Gaven." },
     { "responseLine1": "Σ1115 - Brandon" },
     { "responseLine1": "Σ1116 - Samson" },
@@ -74,10 +73,12 @@
 
 
   "!calendar": [
+    { "responseLine1": "Thu 3/5: 5:00 PM - group 1 cleanup (Lindsay Carr purge)"},
+    { "responseLine1": "Fri 3/6: 7:00 PM - shiny setup"},
     { "responseLine1": "Fri 3/6: 8:30 PM - 40 hands"},
-    { "responseLine1": "Fri 3/6 or Sat 3/7: TBD PM - group 1 setup for tg"},
+    { "responseLine1": "Fri 3/6 or Sat 3/7: TBD PM - group 2 setup for tg"},
     { "responseLine1": "Sat 3/7: 8:00 PM - DOK TG (saint paddys theme)"},
-    { "responseLine1": "Sun 3/8: 5:00 PM - group 2 cleanup"},
+    { "responseLine1": "Sun 3/8: 5:00 PM - group 3 cleanup"},
     { "responseLine1": "Sun 3/8: 6:00 PM - chap"}
     
 
